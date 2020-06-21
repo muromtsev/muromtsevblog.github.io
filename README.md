@@ -1,1 +1,1 @@
-[LIVE](https://muromtsev.github.io/muromtsevblog.github.io/)
+[LIVE](https://muromtsev.github.io/blog/)
